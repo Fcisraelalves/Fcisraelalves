@@ -48,9 +48,5 @@ Estou em constante busca por desafios que me ajudem a desenvolver meu pensamento
     <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Fcisraelalves&theme=radical" alt="Contribuições recentes"/></td>
   </tr>
 </table>
-
----
-
-<p align="center">
   <i>Vamos conectar e colaborar em projetos inovadores!</i> 😊
 </p>
