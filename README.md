@@ -1,13 +1,3 @@
-# 👋 Bem-vindo ao meu GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fcisraelalves&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fcisraelalves&theme=radical" alt="Contribuições recentes"/>
-</p>
-
 ---
 
 ## 📜 Sobre Mim
@@ -20,7 +10,7 @@ Estou em constante busca por desafios que me ajudem a desenvolver meu pensamento
 
 ## 🚀 Tecnologias & Ferramentas
 
-### Linguagens de Programação
+### Linguagens de Programação estudadas no momento:
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -28,7 +18,7 @@ Estou em constante busca por desafios que me ajudem a desenvolver meu pensamento
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
 </p>
 
-### Bibliotecas & Frameworks
+### Bibliotecas & Frameworks estudadas no momento
 <p align="left">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
@@ -47,6 +37,17 @@ Estou em constante busca por desafios que me ajudem a desenvolver meu pensamento
   <img src="https://github-profile-trophy.vercel.app/?username=Fcisraelalves&theme=radical&column=3&margin-w=15&margin-h=15" alt="Troféus do GitHub"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fcisraelalves&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fcisraelalves&theme=radical" alt="Contribuições recentes"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fcisraelalves&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+</p>
 ---
 
 ## 🎯 Objetivos
