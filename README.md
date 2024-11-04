@@ -1,5 +1,3 @@
-# 👋 Bem-vindo ao meu GitHub
-
 ---
 
 ## 📜 Sobre Mim
@@ -10,7 +8,7 @@ Estou em constante busca por desafios que me ajudem a desenvolver meu pensamento
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+## 🎓 Tecnologias & Ferramentas
 
 ### Linguagens de Programação estudadas no momento:
 <p align="left">
@@ -29,6 +27,15 @@ Estou em constante busca por desafios que me ajudem a desenvolver meu pensamento
 
 ---
 
+## 📈 Objetivos
+
+- Aprimorar minhas habilidades em **Python**, **NumPy**, **Pandas** e **Scikit-learn**.
+- Ganhar proficiência em **Java**, **HTML** e **CSS**.
+- Desenvolver projetos práticos em **Inteligência Artificial** e **Ciência de Dados**.
+- Contribuir para projetos open-source e colaborar com outros desenvolvedores.
+
+---
+
 ## 📊 Estatísticas
 
 <table align="center">
@@ -41,15 +48,6 @@ Estou em constante busca por desafios que me ajudem a desenvolver meu pensamento
     <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Fcisraelalves&theme=radical" alt="Contribuições recentes"/></td>
   </tr>
 </table>
-
----
-
-## 🎯 Objetivos
-
-- Aprimorar minhas habilidades em **Python**, **NumPy**, **Pandas** e **Scikit-learn**.
-- Ganhar proficiência em **Java**, **HTML** e **CSS**.
-- Desenvolver projetos práticos em **Inteligência Artificial** e **Ciência de Dados**.
-- Contribuir para projetos open-source e colaborar com outros desenvolvedores.
 
 ---
 
