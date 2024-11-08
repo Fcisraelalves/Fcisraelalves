@@ -45,7 +45,6 @@ Estou em constante busca por desafios que me ajudem a desenvolver meu pensamento
   </tr>
   <tr>
     <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=Fcisraelalves&show_icons=true&theme=radical" alt="Estatísticas do GitHub" /></td>
-    <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Fcisraelalves&theme=radical" alt="Contribuições recentes"/></td>
   </tr>
 </table>
 </p>
