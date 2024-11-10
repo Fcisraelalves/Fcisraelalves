@@ -10,7 +10,7 @@ Estou em constante busca por desafios que me ajudem a desenvolver meu pensamento
 
 ## 🎓 Tecnologias & Ferramentas
 
-### Linguagens de Programação estudadas no momento:
+### Linguagens estudadas no momento:
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
