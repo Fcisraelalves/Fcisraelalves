@@ -13,6 +13,7 @@ Além disso, tenho interesse em áreas como **visão computacional** e **process
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
+
 ## Linguagens estudadas no momento  
 
 <p align="left">
