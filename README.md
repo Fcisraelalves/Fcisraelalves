@@ -37,15 +37,15 @@
 
 <table align="center">
   <tr>
-    <td align="center">
+    <td align="center" style="background-color: transparent;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fcisraelalves&layout=compact&theme=dracula" alt="Linguagens mais usadas"/>
     </td>
-    <td align="center">
+    <td align="center" style="background-color: transparent;">
       <img src="https://github-profile-trophy.vercel.app/?username=Fcisraelalves&theme=dracula&column=3&margin-w=15&margin-h=15" alt="Troféus do GitHub"/>
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2">
+    <td align="center" colspan="2" style="background-color: transparent;">
       <img src="https://github-readme-stats.vercel.app/api?username=Fcisraelalves&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" />
     </td>
   </tr>
