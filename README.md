@@ -44,20 +44,27 @@ Além disso, tenho interesse em áreas como **visão computacional** e **process
 
 ---
 
-# 📊 Estatísticas  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1976d2?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-42a5f5?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-64b5f6?style=for-the-badge&logo=scikit-learn&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-90caf9?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-b3e5fc?style=for-the-badge&logo=numpy&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-e3f2fd?style=for-the-badge&logo=matplotlib&logoColor=black)
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fcisraelalves&layout=compact&theme=radical" alt="Linguagens mais usadas"/>
-    </td>
-    <td align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=Fcisraelalves&theme=radical&column=3&margin-w=15&margin-h=15" alt="Troféus do GitHub"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Fcisraelalves&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
-    </td>
-  </tr>
-</table>
+---
+
+### 📈 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Fcisraelalves&show_icons=true&theme=dracula)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Fcisraelalves&layout=compact&theme=dracula)
+
+---
+
+![Snake animation](https://github.com/Fcisraelalves/Fcisraelalves/blob/output/github-contribution-grid-snake.svg)
+
+<!-- Rodapé com Onda (Azul) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d47a1&height=100&section=footer" alt="Rodapé Animado" width="100%"/>
+
+Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
+Attach files by dragging & dropping, selecting or pasting them.
+
