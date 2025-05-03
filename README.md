@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2c82b5&height=100&section=header" alt="Cabeçalho Animado" width="100%"/>
 
 <!-- Letreiro com Efeito de Máquina de Escrever (Verde Pastel) -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=1000&color=88cdf6&width=1000&lines=Olá,+sou+Israel!;Estudante+de+Programação,;Entusiasta+de+IA+e+Machine+Learning+e;Sempre+em+busca+de+novos+desafios!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=700&color=88cdf6&width=1000&lines=Olá,+sou+Israel!;Estudante+de+Programação;Entusiasta+de+IA+e+Machine+Learning;Sempre+em+busca+de+novos+desafios!)](https://git.io/typing-svg)
 
 
 ---
