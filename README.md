@@ -30,8 +30,9 @@
 ![Pandas](https://img.shields.io/badge/Pandas-6272A4?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-8BE9FD?style=for-the-badge&logo=numpy&logoColor=black)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-BD93F9?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-282C34?style=for-the-badge&logo=linux&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-FFD580?style=for-the-badge&logo=google-colab&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-CFCFCF?style=for-the-badge&logo=linux&logoColor=2C2C2C)
+
 
 ---
 
