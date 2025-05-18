@@ -4,7 +4,6 @@
 <!-- Letreiro com Efeito de Máquina de Escrever (Verde Pastel) -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&pause=700&color=88cdf6&width=1000&lines=Olá,+sou+Israel!;Estudante+de+Programação;Entusiasta+de+IA+e+Machine+Learning;Sempre+em+busca+de+novos+desafios!)](https://git.io/typing-svg)
 
-
 ---
 
 ### 🤖 Sobre Mim
@@ -12,10 +11,11 @@
 <span style="font-family: 'Courier New', monospace">
   
 - 🎓 Estudante de programação com foco em inteligência artificial e machine learning.  
-- 🧠 Explorando frameworks como TensorFlow, Keras, Scikit-learn e PyTorch.  
+- 🧠 Explorando frameworks como TensorFlow, Keras, Scikit-learn, Langchain e HuggingFace.  
 - 📚 Estudando os livros *Hands-On Machine Learning* e *Python for Data Analysis*.  
 - 🔍 Interessado em processamento de linguagem natural (NLP) e visão computacional.  
-- 💡 Buscando constantemente desafios que estimulem meu raciocínio lógico e aprendizado contínuo.  
+- 💡 Em busca de desafios que me façam pensar.
+- 🎸 Apreciador de Rock nacional e internacional.
 
 </span>
 
@@ -30,6 +30,8 @@
 ![Pandas](https://img.shields.io/badge/Pandas-6272A4?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-8BE9FD?style=for-the-badge&logo=numpy&logoColor=black)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-BD93F9?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-282C34?style=for-the-badge&logo=linux&logoColor=white)
 
 ---
 
@@ -53,5 +55,4 @@
 
 ---
 
-<!-- Rodapé com Onda (Verde Suave Dracula) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2c82b5&height=100&section=footer" alt="Rodapé Animado" width="100%"/>
+<!-- Rodapé com Onda (Verde
