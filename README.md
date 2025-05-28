@@ -21,7 +21,7 @@
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tecnologias e Ferramentas estudadas no momento
 
 ![Python](https://img.shields.io/badge/Python-50FA7B?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FFB86C?style=for-the-badge&logo=tensorflow&logoColor=white)
