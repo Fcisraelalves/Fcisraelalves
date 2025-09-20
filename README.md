@@ -24,13 +24,7 @@
 ### 🛠️ Tecnologias e Ferramentas estudadas no momento
 
 ![Python](https://img.shields.io/badge/Python-50FA7B?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FFB86C?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-FF79C6?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F1FA8C?style=for-the-badge&logo=scikit-learn&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-6272A4?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-8BE9FD?style=for-the-badge&logo=numpy&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-BD93F9?style=for-the-badge&logo=matplotlib&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-A1E3D8?style=for-the-badge&logo=opencv&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-D0D1FF?style=for-the-badge&logo=github&logoColor=2D2D2D)
 ![Git](https://img.shields.io/badge/Git-FEC8D8?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-BFD8FF?style=for-the-badge&logo=visual-studio-code&logoColor=1E1E1E)
