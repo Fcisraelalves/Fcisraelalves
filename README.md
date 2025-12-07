@@ -7,43 +7,30 @@ Meu objetivo é integrar IA e desenvolvimento para criar soluções **robustas, 
 
 ---
 
-## ⚙️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
-### 💻 Linguagens e Dev Tools
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode logo"  />
-</div>
+### Linguagens e Dev Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### 📊 Ciência de Dados & IA
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="Numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" height="40" alt="Scikit Learn logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="OpenCV logo"  />
-</div>
+### Ciência de Dados & Inteligência Artificial
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-### 🌐 Backend & Banco de Dados
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo"  />
-</div>
+### Backend
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-## 🎓 Atualmente Estudando
-- Fundamentos de **Machine Learning**
+## Atualmente Estudando
+- Fundamentos de Machine Learning  
 - KNN, SVM, Decision Trees  
 - Práticas avançadas de Python para IA  
 - Backend com Django e PostgreSQL  
@@ -51,33 +38,21 @@ Meu objetivo é integrar IA e desenvolvimento para criar soluções **robustas, 
 
 ---
 
-## 📈 Estatísticas do GitHub
+## Estatísticas do GitHub
 
-<table align="center">
-  <tr>
-    <td align="center" style="background-color: transparent;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fcisraelalves&layout=compact&theme=dracula" alt="Linguagens mais usadas"/>
-    </td>
-    <td align="center" style="background-color: transparent;">
-      <img src="https://github-profile-trophy.vercel.app/?username=Fcisraelalves&theme=dracula&column=3&margin-w=15&margin-h=15" alt="Troféus do GitHub"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2" style="background-color: transparent;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Fcisraelalves&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fcisraelalves&layout=compact&theme=dracula"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Fcisraelalves&theme=dracula&column=3&margin-w=15&margin-h=15"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Fcisraelalves&show_icons=true&theme=dracula"/>
+
+</div>
 
 ---
 
 ## Contato
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/israel-alves-53a60b366/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white" alt="Badge LinkedIn">
-  </a>
-  <a href="mailto:fc.alvesisrael@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Badge Email">
-  </a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israel-alves-53a60b366/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fc.alvesisrael@gmail.com)
