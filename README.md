@@ -6,12 +6,12 @@
 
 <span style="font-family: 'Courier New', monospace">
   
-- 🎓 Estudante de programação com foco em inteligência artificial e machine learning.  
-- 🧠 Explorando frameworks como TensorFlow, Keras, Scikit-learn, Langchain e HuggingFace.  
-- 📚 Estudando os livros *Hands-On Machine Learning* e *Python for Data Analysis*.  
-- 🔍 Interessado em processamento de linguagem natural (NLP) e visão computacional.  
-- 💡 Em busca de desafios que me façam pensar.
-- 🎸 Apreciador de Rock nacional e internacional.
+- Estudante de programação com foco em <b>Desenvolvimento Backend</b> e <b>Machine Learning</b>.
+- Explorando frameworks como TensorFlow, Keras, Scikit-learn, Langchain e HuggingFace.  
+- Estudando os livros *Hands-On Machine Learning* e *Python for Data Analysis*.  
+- Interessado em processamento de linguagem natural (NLP) e visão computacional.  
+- Em busca de desafios que me façam pensar.
+- Apreciador de Rock nacional e internacional.
 
 </span>
 
