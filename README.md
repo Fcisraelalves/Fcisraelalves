@@ -6,9 +6,9 @@
 <br>
 <span style="font-family: 'Courier New', monospace">
   
-- Estudante de programação com foco em <b>Desenvolvimento Backend</b> e <b>Machine Learning</b>. <br>
-- Interessado em <b>Processamento de Linguagem Natural (NLP)</b>, <b>Visão Computacional</b> e <b>Arquitetura de Software</b>. <br>
-- Meu objetivo é integrar <b>Inteligência Artificial</b> e <b>Desenvolvimento de Software</b> para criar soluções robustas, seguras e escaláveis. <br>
+Estudante de programação com foco em <b>Desenvolvimento Backend</b> e <b>Machine Learning</b>. <br>
+Interessado em <b>Processamento de Linguagem Natural (NLP)</b>, <b>Visão Computacional</b> e <b>Arquitetura de Software</b>. <br>
+Meu objetivo é integrar <b>Inteligência Artificial</b> e <b>Desenvolvimento de Software</b> para criar soluções robustas, seguras e escaláveis. <br>
 </span>
 
 ---
