@@ -13,7 +13,7 @@
 
 ---
 
-### Ferramentas
+### Linguagens e Ferramentas
 
 ![GitHub](https://img.shields.io/badge/GitHub-D0D1FF?style=for-the-badge&logo=github&logoColor=2D2D2D)
 ![Git](https://img.shields.io/badge/Git-FEC8D8?style=for-the-badge&logo=git&logoColor=white)
@@ -22,6 +22,10 @@
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-FFD580?style=for-the-badge&logo=google-colab&logoColor=white)
 
 ---
+
+### Tecnologias
+
+
 
 ### 📈 Estatísticas do GitHub
 
