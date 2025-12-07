@@ -7,7 +7,7 @@ Meu objetivo é integrar IA e desenvolvimento para criar soluções **robustas, 
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## ⚙️ Tecnologias e Ferramentas
 
 ### 💻 Linguagens e Dev Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -29,7 +29,7 @@ Meu objetivo é integrar IA e desenvolvimento para criar soluções **robustas, 
 
 ---
 
-## 📚 Atualmente Estudando
+## 🎓 Atualmente Estudando
 - Fundamentos de **Machine Learning**
 - KNN, SVM, Decision Trees  
 - Práticas avançadas de Python para IA  
@@ -54,6 +54,6 @@ Meu objetivo é integrar IA e desenvolvimento para criar soluções **robustas, 
 
 ## 📫 Contato
 
-- **LinkedIn:** *adicione aqui*  
-- **Email:** *adicione aqui*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israel-alves-53a60b366/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fc.alvesisrael@gmail.com)
 
