@@ -3,7 +3,7 @@
 ---
 
 ### Sobre Mim
-
+<br>
 <span style="font-family: 'Courier New', monospace">
   
 - Estudante de programação com foco em <b>Desenvolvimento Backend</b> e <b>Machine Learning</b>. <br>
