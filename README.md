@@ -38,14 +38,6 @@ Meu objetivo é integrar IA e desenvolvimento para criar soluções **robustas, 
 
 ---
 
-## Estatísticas do GitHub
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fcisraelalves&show_icons=true&theme=transparent)
-
-</div>
-
----
-
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israel-alves-53a60b366/)
