@@ -50,15 +50,20 @@
 
 ### 📈 Estatísticas do GitHub
 
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Fcisraelalves&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" height="170" alt="Estatísticas Gerais" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fcisraelalves&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117" height="170" alt="Linguagens mais usadas" />
-
-  <br><br>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=Fcisraelalves&theme=dracula&no-frame=true&margin-w=15" alt="Troféus" />
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center" style="background-color: transparent;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fcisraelalves&layout=compact&theme=dracula" alt="Linguagens mais usadas"/>
+    </td>
+    <td align="center" style="background-color: transparent;">
+      <img src="https://github-profile-trophy.vercel.app/?username=Fcisraelalves&theme=dracula&column=3&margin-w=15&margin-h=15" alt="Troféus do GitHub"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2" style="background-color: transparent;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Fcisraelalves&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" />
+    </td>
+  </tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%"/>
