@@ -1,8 +1,8 @@
-# Israel Alves
+# 🎓 Israel Alves
 
 ---
 
-### 🤖 Sobre Mim
+### Sobre Mim
 
 <span style="font-family: 'Courier New', monospace">
   
