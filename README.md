@@ -21,18 +21,30 @@
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas estudadas no momento
+### 🛠️ Tecnologias e Ferramentas
 
-![Python](https://img.shields.io/badge/Python-50FA7B?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-8BE9FD?style=for-the-badge&logo=numpy&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-D0D1FF?style=for-the-badge&logo=github&logoColor=2D2D2D)
-![Git](https://img.shields.io/badge/Git-FEC8D8?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-BFD8FF?style=for-the-badge&logo=visual-studio-code&logoColor=1E1E1E)
-![Shell Script](https://img.shields.io/badge/Shell%20Script-E8E8D0?style=for-the-badge&logo=gnu-bash&logoColor=2C2C2C)
-![Linux](https://img.shields.io/badge/Linux-CFCFCF?style=for-the-badge&logo=linux&logoColor=2C2C2C)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-FFD580?style=for-the-badge&logo=google-colab&logoColor=white)
+<div align="center">
 
+**Backend & Banco de Dados**<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
+**Data Science & IA**<br>
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+**Ferramentas & DevOps**<br>
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+
+</div>
 ---
 
 ### 📈 Estatísticas do GitHub
