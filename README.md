@@ -40,13 +40,7 @@ Meu objetivo é integrar IA e desenvolvimento para criar soluções **robustas, 
 
 ## Estatísticas do GitHub
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fcisraelalves&layout=compact&theme=dracula"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Fcisraelalves&theme=dracula&column=3&margin-w=15&margin-h=15"/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Fcisraelalves&show_icons=true&theme=dracula"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fcisraelalves&show_icons=true&theme=transparent)
 
 </div>
 
