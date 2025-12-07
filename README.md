@@ -52,8 +52,8 @@ Meu objetivo é integrar IA e desenvolvimento para criar soluções **robustas, 
 
 ---
 
-## 📫 Contato
+## Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israel-alves-53a60b366/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fc.alvesisrael@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israel-alves-53a60b366/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fc.alvesisrael@gmail.com)
 
