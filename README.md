@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Israel%20Alves&fontSize=70&fontColor=58a6ff&animation=fadeIn&fontAlignY=35" alt="Cabeçalho Animado" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=header" alt="Cabeçalho Animado" width="100%"/>
 
 <div align="center">
 
@@ -65,24 +65,10 @@
 
 ---
 
-### 📈 Estatísticas do GitHub
+### 📊 Estatísticas
 
-<table align="center">
-  <tr>
-    <td align="center" style="background-color: transparent;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fcisraelalves&layout=compact&theme=dracula" alt="Linguagens mais usadas"/>
-    </td>
-    <td align="center" style="background-color: transparent;">
-      <img src="https://github-profile-trophy.vercel.app/?username=Fcisraelalves&theme=dracula&column=3&margin-w=15&margin-h=15" alt="Troféus do GitHub"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2" style="background-color: transparent;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Fcisraelalves&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" />
-    </td>
-  </tr>
-</table>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%"/>
+<div align="center">
+  
+  <br>
+  
+  <img src="https://github
