@@ -3,7 +3,7 @@
 Estudante de programação com foco em **Desenvolvimento Backend** e **Inteligência Artificial**.  
 Atualmente estou aprofundando meus estudos em **Machine Learning**, **NLP**, **Visão Computacional** e em práticas sólidas de **Arquitetura de Software**.
 
-Meu objetivo é integrar IA e desenvolvimento para criar soluções **robustas, seguras e escaláveis**.
+Meu objetivo é integrar IA e desenvolvimento de software para criar soluções **robustas, seguras e escaláveis**.
 
 ---
 
