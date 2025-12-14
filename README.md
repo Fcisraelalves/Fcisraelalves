@@ -38,10 +38,10 @@ Meu objetivo é integrar IA e desenvolvimento de software para criar soluções 
 
 ---
 ## 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fcisraelalves&show_icons=true&theme=onedark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fcisraelalves&show_icons=true&theme=dark)
 
 ## 💻 Linguagens mais usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fcisraelalves&layout=compact&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fcisraelalves&layout=compact&theme=dark)
 
 ---
 ## Contato
