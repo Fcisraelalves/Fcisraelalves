@@ -43,8 +43,8 @@ Meu objetivo é integrar IA e desenvolvimento de software para criar soluções 
 ## 💻 Linguagens mais usadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fcisraelalves&layout=compact&theme=tokyonight)
 
-## 🏆 Troféus
-![trophy](https://github-profile-trophy.vercel.app/?username=Fcisraelalves&theme=onedark)
+## 🏆 
+![GitHub Streak](https://streak-stats.demolab.com?user=Fcisraelalves&theme=tokyonight)
 
 ---
 ## Contato
