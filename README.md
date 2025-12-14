@@ -37,7 +37,16 @@ Meu objetivo é integrar IA e desenvolvimento de software para criar soluções 
 - Boas práticas de código, versionamento e arquitetura
 
 ---
+## 📊 Estatísticas do GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
 
+## 💻 Linguagens mais usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
+
+## 🏆 Troféus
+![trophy](https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=onedark)
+
+---
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israel-alves-53a60b366/)
