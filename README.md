@@ -31,7 +31,9 @@ Meu objetivo é integrar IA e desenvolvimento de software para criar soluções 
 - Fundamentos de Machine Learning  
 - KNN, SVM, Decision Trees  
 - Práticas avançadas de Python para IA  
-- Backend com Django e PostgreSQL  
+- Backend com Django e PostgreSQL
+- Criação de APIs com FastApi
+- Padrões de projeto
 - Boas práticas de código, versionamento e arquitetura
 
 ---
@@ -40,6 +42,9 @@ Meu objetivo é integrar IA e desenvolvimento de software para criar soluções 
 
 ## 💻 Linguagens mais usadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fcisraelalves&layout=compact&theme=dark)
+
+# Trófeus
+[![trophy](https://github-profile-trophy.vercel.app/?username=Fcisraelalves)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 ## Contato
