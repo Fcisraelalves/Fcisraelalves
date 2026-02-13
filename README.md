@@ -37,12 +37,6 @@ Meu objetivo é integrar IA e desenvolvimento de software para criar soluções 
 - Boas práticas de código, versionamento e arquitetura
 
 ---
-## 📊 Estatísticas do GitHub
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fcisraelalves&show_icons=true&theme=radical)
-## 💻 Linguagens mais usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fcisraelalves&layout=compact&theme=dark)
-
----
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israel-alves-53a60b366/)
