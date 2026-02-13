@@ -38,8 +38,7 @@ Meu objetivo é integrar IA e desenvolvimento de software para criar soluções 
 
 ---
 ## 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fcisraelalves&show_icons=true&theme=dark)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fcisraelalves&show_icons=true&theme=radical)
 ## 💻 Linguagens mais usadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fcisraelalves&layout=compact&theme=dark)
 
