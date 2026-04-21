@@ -1,9 +1,9 @@
 # Olá! Eu sou o Israel Alves
 
-Estudante de programação com foco em **Desenvolvimento Backend** e **Inteligência Artificial**.  
-Atualmente estou aprofundando meus estudos em **Machine Learning**, **NLP**, **Visão Computacional** e em práticas sólidas de **Arquitetura de Software**.
+Aluno do curso **bacharelado em ciência da computação do IFCE** e estudante de programação com foco em **Desenvolvimento Backend** e **Inteligência Artificial**.  
+Atualmente estou aprofundando meus estudos em **Desenvolvimento de software backend**, **boas práticas de arquitetura** e **desenvolvimento de APIs**.
 
-Meu objetivo é integrar IA e desenvolvimento de software para criar soluções **robustas, seguras e escaláveis**.
+Meu objetivo é, por meio de conhecimentos de arquitetura de software, construir soluções **robustas, seguras e escaláveis**.
 
 ---
 
@@ -28,13 +28,10 @@ Meu objetivo é integrar IA e desenvolvimento de software para criar soluções 
 ---
 
 ## Atualmente Estudando
-- Fundamentos de Machine Learning  
-- KNN, SVM, Decision Trees  
-- Práticas avançadas de Python para IA  
 - Backend com Django e PostgreSQL
 - Criação de APIs com FastApi
 - Padrões de projeto
-- Boas práticas de código, versionamento e arquitetura
+- Boas práticas de código, versionamento e arquitetura de software
 
 ---
 ## Contato
